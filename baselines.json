@@ -1,0 +1,66 @@
+{
+  "Rock": {
+    "hits": {
+      "n": 306,
+      "bpm": 122.94,
+      "happy": 0.6587,
+      "major": 0.781,
+      "dance": 0.472
+    },
+    "nonhits": {
+      "n": 294,
+      "bpm": 122.02,
+      "happy": 0.5426,
+      "major": 0.6463,
+      "dance": 0.3363
+    }
+  },
+  "Folk/Country": {
+    "hits": {
+      "n": 297,
+      "bpm": 120.42,
+      "happy": 0.5818,
+      "major": 0.9697,
+      "dance": 0.3081
+    },
+    "nonhits": {
+      "n": 208,
+      "bpm": 125.83,
+      "happy": 0.452,
+      "major": 0.9183,
+      "dance": 0.2082
+    }
+  },
+  "Blues": {
+    "hits": {
+      "n": 154,
+      "bpm": 117.9,
+      "happy": 0.6184,
+      "major": 0.7857,
+      "dance": 0.454
+    },
+    "nonhits": {
+      "n": 140,
+      "bpm": 124.21,
+      "happy": 0.5093,
+      "major": 0.5714,
+      "dance": 0.4
+    }
+  },
+  "Rap/Hip-hop": {
+    "hits": {
+      "n": 124,
+      "bpm": 103.24,
+      "happy": 0.3819,
+      "major": 0.5,
+      "dance": 0.9427
+    },
+    "nonhits": {
+      "n": 121,
+      "bpm": 107.67,
+      "happy": 0.3866,
+      "major": 0.3471,
+      "dance": 0.8976
+    }
+  }
+}
