@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: track-logic-team-test
-    runtime: docker
-    plan: free
-    healthCheckPath: /api/health
