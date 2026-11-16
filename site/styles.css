@@ -951,23 +951,6 @@ details {
     margin: 5px 0;
 }
 
-#upload-area .upload-limit-notice {
-    padding: 12px 14px;
-    margin: 3px 0;
-    border: 2px solid #b9a0ff;
-    border-radius: 12px;
-    background: #282044;
-    color: #fff;
-    font-size: 16px;
-    font-weight: 700;
-    text-align: center;
-}
-
-#upload-area .upload-limit-notice strong {
-    color: #fff;
-    font-size: 19px;
-}
-
 #upload-area .audio-status {
     line-height: 1.5;
     color: #f3efff;
@@ -1241,3 +1224,14 @@ details {
 #preview-time { white-space: nowrap; font-size: 12px; color: var(--muted); }
 .preview-message { color: var(--muted); font-size: 12px; margin: 8px 0 0; }
 .preview-message:empty { display: none; }
+
+.upload-limit {
+    border: 2px solid var(--purple);
+    border-radius: 13px;
+    padding: 14px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 20px 0 10px;
+}
+.upload-limit strong { font-size: 23px; }
